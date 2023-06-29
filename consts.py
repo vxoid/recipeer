@@ -1,0 +1,1 @@
+SC_API = "https://api.spoonacular.com"
